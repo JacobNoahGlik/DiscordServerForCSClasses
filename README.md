@@ -8,24 +8,24 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 ###### `INFORMATION`
 * welcome-and-rules ( students: `view only` )
-* roles             ( students: `react only` )
-* bot-commands      ( students: `not viewable` )
+* roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
+* bot-commands &nbsp; &nbsp; &nbsp;( students: `not viewable` )
 
-  
+ &nbsp;
 ###### `OFFICE HOURS`
-* notifications         ( students: `view only` )
+* notifications &nbsp; &nbsp; &nbsp; &nbsp; ( students: `view only` )
 * upcoming-office-hours ( students: `view only` )
-* support               ( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
+* support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
 
-  
+ &nbsp;
 ###### `TEXT CHANNELS`
-* general         ( students: {`view` / `react` / `message`} )
-* homework-help   ( students: {`view` / `react` / `message`} )
+* general &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
+* homework-help &nbsp; ( students: {`view` / `react` / `message`} )
 * notes-resources ( students: {`view` / `react` / `message`} )
-* code-spam       ( students: {`view` / `react` / `message`} )
-* off-topic       ( students: {`view` / `react` / `message`} )
-* admin-chatroom  ( non-admin: `not viewable` )
-* TA-Only         ( students: `not viewable` )
+* code-spam &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
+* off-topic &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
+* admin-chatroom &nbsp;( non-admin: `not viewable` )
+* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; ( students: `not viewable` )
 
 <be>
 
