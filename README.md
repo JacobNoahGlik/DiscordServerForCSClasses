@@ -8,8 +8,8 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 ###### `INFORMATION`
 * welcome-and-rules ( students: `view only` )
-* roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
-* bot-commands &nbsp; &nbsp; &nbsp;( students: `not viewable` )
+* roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
+* bot-commands &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `not viewable` )
 
  &nbsp;
 ###### `OFFICE HOURS`
