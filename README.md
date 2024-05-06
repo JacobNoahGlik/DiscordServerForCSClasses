@@ -3,8 +3,8 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 <br>
 
-## Recommended Text Chats
-
+## Recommended Text Chats - Overview
+###### [More details can be found in the In-Depth Section](#In-Depth-Section)
 
 ###### `INFORMATION`
 * welcome-and-rules ( students: `view only` )
@@ -28,4 +28,16 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 * admin-chatroom ( non-admin: `not viewable` )
 * TA-Only ( students: `not viewable` )
 
-  
+<be>
+
+## In-Depth Section
+text
+
+
+text
+
+
+text
+
+
+text
