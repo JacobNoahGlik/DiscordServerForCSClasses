@@ -9,7 +9,6 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 ###### `INFORMATION`
 * welcome-and-rules ( students: `view only` )
 * roles ( students: `react only` )
-* notes-resources ( students: {`view` / `react` / `message`} )
 * bot-commands ( students: `not viewable` )
 
   
@@ -22,7 +21,7 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 ###### `TEXT CHANNELS`
 * general ( students: {`view` / `react` / `message`} )
 * homework-help ( students: {`view` / `react` / `message`} )
-* resources ( students: {`view` / `react` / `message`} )
+* notes-resources ( students: {`view` / `react` / `message`} )
 * code-spam ( students: {`view` / `react` / `message`} )
 * off-topic ( students: {`view` / `react` / `message`} )
 * admin-chatroom ( non-admin: `not viewable` )
