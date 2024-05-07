@@ -15,17 +15,17 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 ###### `OFFICE HOURS`
 * notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `view only` )
 * upcoming-office-hours &nbsp;( students: `view only` )
-* support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
+* support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
 
  &nbsp;
 ###### `TEXT CHANNELS`
 * general &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* homework-help &nbsp; &nbsp;( students: {`view` / `react` / `message`} )
+* homework-help &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
 * notes-resources &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* code-spam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
+* code-spam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
 * off-topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* admin-chatroom &nbsp;( non-admin: `not viewable` )
-* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `not viewable` )
+* admin-chatroom &nbsp; &nbsp; ( non-admin: `not viewable` )
+* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `not viewable` )
 
 <be>
 
