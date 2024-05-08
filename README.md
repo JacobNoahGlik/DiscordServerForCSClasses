@@ -13,7 +13,7 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 
 ###### `OFFICE HOURS`
-* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `view only` )
+* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `view only` )
 * upcoming-office-hours &nbsp; ( students: `view only` )
 * support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
 
