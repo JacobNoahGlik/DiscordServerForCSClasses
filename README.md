@@ -24,8 +24,8 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 * notes-resources &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
 * code-spam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
 * off-topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* admin-chatroom &nbsp; &nbsp;( non-admin: `not viewable` )
-* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
+* admin-chatroom &nbsp; &nbsp; ( non-admin: `not viewable` )
+* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `not viewable` )
 
 <be>
 
