@@ -27,7 +27,26 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 * admin-chatroom &nbsp; &nbsp; &nbsp;( non-admin: `not viewable` )
 * TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
 
-<be>
+<br>
+
+## Roles
+* Vital Roles
+  * Professor (Use their name if it's one person, but use "Professor" if it's multiple)
+  * TA (Or another name for teaching assistant)
+  * Student (Should be auto-given to anyone who joins the server)
+  * Bot (Used to hide the presence of bots in the server)
+* Permission Roles
+  * Admin (Should give all permissions)
+  * Aditional permissions if needed
+* Self-Expression Roles
+  * Grade roles (Freshmen, Sophomore, Junior, Senior, Grad-Student, etc ...)
+  * Prefered Programming Language Role (Java, C/C++, Python, etc ...) - should be funny
+  * Major Roles (Comp-Sci, Data Science, IMGD, Robotics, Mech-Eng, Bio-Eng, etc ...)
+
+<br>
+
+<br>
+
 
 ## In-Depth Section
 text
