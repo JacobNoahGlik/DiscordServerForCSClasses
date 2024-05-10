@@ -33,7 +33,7 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 * Vital Roles
   * Professor (Use their name if it's one person, but use "Professor" if it's multiple)
   * TA (Or another name for teaching assistant)
-  * Student (Should be auto-given to anyone who joins the server)
+  * Student (Should be auto-applied to anyone who joins the server)
   * Bot (Used to hide the presence of bots in the server)
 * Permission Roles
   * Admin (Should give all permissions)
@@ -43,7 +43,14 @@ A description of how to create fun and helpful discord servers for CS classes ( 
   * Prefered Programming Language Role (Java, C/C++, Python, etc ...) - should be funny
   * Major Roles (Comp-Sci, Data Science, IMGD, Robotics, Mech-Eng, Bio-Eng, etc ...)
 
-<br>
+<be>
+
+## Bots
+* Arcane &ensp; (Used for Leveling)
+* Carl-bot &ensp; (Used for assigning self-expression roles)
+* ChronicleBot &ensp; (Used for keeping track of office hours and creating Discored events)
+* ServerStats &ensp; (Used to keep track of the population in the server. i.e. number of members)
+* YAGPDB.xyz &ensp; (used to automatically assign the `@Student` role to those that join)
 
 <br>
 
