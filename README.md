@@ -8,24 +8,24 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 ###### `INFORMATION`
 * welcome-and-rules &nbsp;( students: `view only` )
-* roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
-* bot-commands &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
+* roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: `react only` )
+* bot-commands &nbsp; &nbsp; &nbsp; &ensp; ( students: `not viewable` )
 
 
 ###### `OFFICE HOURS`
-* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `view only` )
-* upcoming-office-hours &nbsp; ( students: `view only` )
-* support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
+* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: `view only` )
+* upcoming-office-hours &ensp; ( students: `view only` )
+* support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
 
  &nbsp;
 ###### `TEXT CHANNELS`
-* general &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* homework-help &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* notes-resources &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* code-spam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* off-topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
-* admin-chatroom &nbsp; &nbsp; &nbsp;( non-admin: `not viewable` )
-* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
+* general &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: {`view` / `react` / `message`} )
+* homework-help &nbsp; &nbsp; &ensp; ( students: {`view` / `react` / `message`} )
+* notes-resources &nbsp; &nbsp; &ensp; ( students: {`view` / `react` / `message`} )
+* code-spam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: {`view` / `react` / `message`} )
+* off-topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: {`view` / `react` / `message`} )
+* admin-chatroom &nbsp; &nbsp; &ensp; ( non-admin: `not viewable` )
+* TA-Only &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; ( students: `not viewable` )
 
 <br>
 
@@ -46,11 +46,11 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 <be>
 
 ## Bots
-* Arcane &ensp; (Used for Leveling)
-* Carl-bot &ensp; (Used for assigning self-expression roles)
+* Arcane &ensp; &ensp; &ensp; &ensp; (Used for Leveling)
+* Carl-bot &ensp; &ensp; &ensp; (Used for assigning self-expression roles)
 * ChronicleBot &ensp; (Used for keeping track of office hours and creating Discored events)
-* ServerStats &ensp; (Used to keep track of the population in the server. i.e. number of members)
-* YAGPDB.xyz &ensp; (used to automatically assign the `@Student` role to those that join)
+* ServerStats &ensp; &ensp; (Used to keep track of the population in the server. i.e. number of members)
+* YAGPDB.xyz &ensp; &ensp; (Used to automatically assign the `@Student` role to those that join)
 
 <br>
 
