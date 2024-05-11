@@ -4,7 +4,7 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 <br>
 
 ## Recommended Text Chats - Overview
-###### [More details can be found in the In-Depth Section](#In-Depth-Section)
+###### [More details can be found in the In-Depth Section](#In-Depth-Section-Text-Chat)
 
 ###### `INFORMATION`
 * welcome-and-rules &nbsp;( students: `view only` )
@@ -43,19 +43,36 @@ A description of how to create fun and helpful discord servers for CS classes ( 
   * Prefered Programming Language Role (Java, C/C++, Python, etc ...) - should be funny
   * Major Roles (Comp-Sci, Data Science, IMGD, Robotics, Mech-Eng, Bio-Eng, etc ...)
 
-<be>
+<br>
 
 ## Bots
-* Arcane &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Used for Leveling)
-* Carl-bot &ensp; &nbsp; &nbsp; &nbsp; (Used for assigning self-expression roles)
+* Arcane &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for Leveling)
+* Carl-bot &ensp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for assigning self-expression roles)
 * ChronicleBot &ensp; (Used for keeping track of office hours and creating Discored events)
-* ServerStats &ensp; &nbsp; (Used to keep track of the population in the server. i.e. number of members)
-* YAGPDB.xyz &ensp; &nbsp;(Used to automatically assign the `@Student` role to those that join)
+* ServerStats &ensp; &nbsp; &nbsp;(Used to keep track of the population in the server. i.e. number of members)
+* YAGPDB.xyz &ensp; &nbsp; (Used to automatically assign the `@Student` role to those that join)
+
+<br>
+
+## In-Depth - Roles
+
+Role hierarchy: 
+
+1. `bot roles` here (`@YAGPDB.xyz`, `@carl-bot`, `@ServerStats`, `@Arcane`, `@ChronicleBot`, etc)
+2. `@Admin`
+3. `other permission roles` here if needed (`@allow write anywhere`, `@allow timeout`, `@allow kick`, `@allow ban`, etc)
+4. `@Professor` (use prof name if possible)
+5. `@TA`
+6. `yapp roles` go here 
+7. `@Student` (should be auto-assigned by bot)
+8. `@Bot` (to keep the bots at the bottom of the list on the right)
+9. `self-expression roles` here (`@Freshmen`, `@Major::ComputorScience`, `@JavaEnjoyer`, etc)
 
 <br>
 
 
-## In-Depth Section
+
+## In-Depth Section - Text-Chat
 text
 
 
