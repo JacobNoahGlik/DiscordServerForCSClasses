@@ -74,10 +74,15 @@ Role hierarchy:
 The goal of yapp roles is to incentivize people to participate in your Discord server. The idea is that the more they interact with others, the higher their points (use a bot to track) and they can level up every `x` points. When they level up a bot assigns them a yapp role. This could change the color of their name and give them a badge to collect. Your goal is to create a good balance of new roles to achieve without taking away from the topic of the Discord server itself.
 
 Yapp roles used in the past:
+
 Level 1: &ensp;`@Entry Level Yapper 🏅 (Level 1)` (color code: `#3787e9`)
+
 Level 5: &ensp;`@Yap City 🏙️ (Level 5)` (color code: `#10c9be`)
+
 Level 10: `@Yap Nobility 🏰 (Level 10)` (color code: `#0cc0a2`)
+
 Level 15: `@Social Royalty 👑 (Level 15)` (color code: `#05b112`)
+
 
 These were found to be too difficult to achieve as most students were level 2-4 by the end of the term (7 weeks) and TAs were level 5-9 by the end of the term (7 weeks). With the highest recorded student level being level 6, you should decrease the levels needed to achieve these roles (unless a class lasts longer than 7 weeks).
 
