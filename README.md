@@ -59,19 +59,19 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 Role hierarchy: 
 
-1. `bot roles` here (`@YAGPDB.xyz`, `@carl-bot`, `@ServerStats`, `@Arcane`, `@ChronicleBot`, etc)
+1. "bot roles" here (`@YAGPDB.xyz`, `@carl-bot`, `@ServerStats`, `@Arcane`, `@ChronicleBot`, etc)
 2. `@Admin`
-3. `other permission roles` here if needed (`@allow write anywhere`, `@allow timeout`, `@allow kick`, `@allow ban`, etc)
+3. "other permission roles" here if needed (`@allow write anywhere`, `@allow timeout`, `@allow kick`, `@allow ban`, etc)
 4. `@Professor` (use prof name if possible)
 5. `@TA`
-6. `yapp roles` go here 
+6. "yapp roles" here (more info in the [in-depth section for yapp roles](#Yapp-Roles-In-Depth))
 7. `@Student` (should be auto-assigned by bot)
 8. `@Bot` (to keep the bots at the bottom of the list on the right)
-9. `self-expression roles` here (`@Freshmen`, `@Major::ComputorScience`, `@JavaEnjoyer`, etc)
+9. "self-expression roles" here (`@Freshmen`, `@Major::ComputorScience`, `@JavaEnjoyer`, etc)
 
 <br>
 
-## Yapp Roles - In Depth
+## Yapp Roles In-Depth
 The goal of yapp roles is to incentivize people to participate in your Discord server. The idea is that the more they interact with others, the higher their points (use a bot to track) and they can level up every `x` points. When they level up a bot assigns them a yapp role. This could change the color of their name and give them a badge to collect. Your goal is to create a good balance of new roles to achieve without taking away from the topic of the Discord server itself.
 
 Yapp roles used in the past: \
