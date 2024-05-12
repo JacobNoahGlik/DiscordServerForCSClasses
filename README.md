@@ -7,17 +7,18 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 ###### [More details can be found in the In-Depth Section](#In-Depth-Section-Text-Chat)
 
 ###### `INFORMATION`
-* welcome-and-rules &nbsp;( students: `view only` )
+* welcome-and-rules &nbsp;( students: `react only` )
 * roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
+* announcements &nbsp; &nbsp; &nbsp; ( students: `react only` )
 * bot-commands &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
 
 
 ###### `OFFICE HOURS`
-* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `view only` )
+* notifications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( students: `react only` )
 * upcoming-office-hours &nbsp; ( students: `view only` )
 * support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( ( students: `not viewable` ), ( `@helpRole`: {`view` / `react` / `message`} ) )
 
- &nbsp;
+
 ###### `TEXT CHANNELS`
 * general &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
 * homework-help &nbsp; &nbsp; &nbsp; ( students: {`view` / `react` / `message`} )
