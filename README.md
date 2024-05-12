@@ -47,11 +47,11 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 <br>
 
 ## Bots
-* Arcane &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for Leveling)
-* Carl-bot &ensp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for assigning self-expression roles)
-* ChronicleBot &ensp; (Used for keeping track of office hours and creating Discored events)
-* ServerStats &ensp; &nbsp; &nbsp;(Used to keep track of the population in the server. i.e. number of members)
-* YAGPDB.xyz &ensp; &nbsp; (Used to automatically assign the `@Student` role to those that join)
+* [Arcane](https://arcane.bot/) &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for Leveling)
+* [Carl-bot](https://carl.gg/) &ensp; &nbsp; &nbsp; &nbsp; &nbsp;(Used for assigning self-expression roles)
+* [ChronicleBot](https://chroniclebot.com/) &ensp; (Used for keeping track of office hours and creating Discored events)
+* [ServerStats](https://serverstatsbot.com/) &ensp; &nbsp; &nbsp;(Used to keep track of the population in the server. i.e. number of members)
+* [YAGPDB.xyz](https://yagpdb.xyz/) &ensp; &nbsp; (Used to automatically assign the `@Student` role to those that join)
 
 <br>
 
