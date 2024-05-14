@@ -30,6 +30,17 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 <br>
 
+table:
+
+| Category    | Text Chat         | Student Permissions | TA/Prof Permissions            | @Admin Role Permissions |
+|-------------|-------------------|---------------------|--------------------------------|-------------------------|
+| INFORMATION |                   |                     |                                |                         |
+|             | welcome-and-rules | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
+|             |                   |                     |                                | `ALL`                   |
+
+<br>
+
+
 ## Roles
 * Vital Roles
   * Professor (Use their name if it's one person, but use "Professor" if it's multiple)
