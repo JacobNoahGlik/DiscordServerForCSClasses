@@ -35,8 +35,8 @@ table:
 | Category    | Text Chat         | Student Permissions | TA/Prof Permissions            | @Admin Role Permissions |
 |-------------|-------------------|---------------------|--------------------------------|-------------------------|
 | INFORMATION |                   |                     |                                |                         |
-|             | welcome-and-rules | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
-|             |                   |                     |                                | `ALL`                   |
+| INFORMATION | welcome-and-rules | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
+| INFORMATION | roles             | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
 
 <br>
 
