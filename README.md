@@ -32,11 +32,11 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 table:
 
-| Category    | Text Chat         | Student Permissions | TA/Prof Permissions            | @Admin Role Permissions |
-|-------------|-------------------|---------------------|--------------------------------|-------------------------|
-| INFORMATION |                   |                     |                                |                         |
-| INFORMATION | welcome-and-rules | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
-| INFORMATION | roles             | `react only`        | {`view` / `react` / `message`} | `ALL`                   |
+| Category    | Text Chat         | Student Permissions            | TA/Prof Permissions            | @Admin Role Permissions |
+|-------------|-------------------|--------------------------------|--------------------------------|-------------------------|
+| INFORMATION | welcome-and-rules | `react only`                   | {`view` / `react` / `message`} | `ALL`                   |
+| INFORMATION | roles             | `react only`                   | {`view` / `react` / `message`} | `ALL`                   |
+| INFORMATION | announcements     | `react only`                   | {`view` / `react` / `message`} | `ALL`                   |
 
 <br>
 
