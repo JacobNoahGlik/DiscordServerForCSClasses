@@ -32,14 +32,16 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 table:
 
-| Category     | Text Chat         | Student Permissions            | TA/Prof Permissions | @Admin Role Permissions |
-|--------------|-------------------|--------------------------------|---------------------|-------------------------|
-| INFORMATION  | welcome-and-rules | `react only`                   | `N/A`               | `ALL`                   |
-| INFORMATION  | roles             | `react only`                   | `N/A`               | `ALL`                   |
-| INFORMATION  | announcements     | `react only`                   | `N/A`               | `ALL`                   |
-| INFORMATION  | bot-commands      | `not viewable`                 | `N/A`               | `ALL`                   |
+| Category     | Text Chat                 | Default Permissions            | View | @Admin Role Permissions |
+|--------------|---------------------------|--------------------------------|------|-------------------------|
+| INFORMATION  | welcome-and-rules         | `react only`                   |  ✅  | `ALL`                   |
+| INFORMATION  | roles                     | `react only`                   |  ✅  | `ALL`                   |
+| INFORMATION  | announcements             | `react only`                   |  ✅  | `ALL`                   |
+| INFORMATION  | bot-commands              | `N/A`                          |  ❌  | `ALL`                   |
 | |
-| OFFICE HOURS | notifications     | `react only`                   | `N/A`               | `ALL`                   |
+| |
+| OFFICE HOURS | notifications             | `react only`                   |  ✅  | `ALL`                   |
+| OFFICE HOURS | upcoming-office-hours     | `react only`                   |  ✅  | `ALL`                   |
 
 <br>
 
