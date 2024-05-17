@@ -38,7 +38,7 @@ table:
 | INFORMATION  | roles             | `react only`                   | `N/A`               | `ALL`                   |
 | INFORMATION  | announcements     | `react only`                   | `N/A`               | `ALL`                   |
 | INFORMATION  | bot-commands      | `not viewable`                 | `N/A`               | `ALL`                   |
-|--------------|-------------------|--------------------------------|---------------------|-------------------------|
+| |
 | OFFICE HOURS | notifications     | `react only`                   | `N/A`               | `ALL`                   |
 
 <br>
