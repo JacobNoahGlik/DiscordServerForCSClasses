@@ -45,7 +45,8 @@ table:
 | OFFICE HOURS  | support                   | `react only`                   |  ❌  | {`@HELP_NEEDED` / `@Admin`} |
 | |
 | |
-| TEXT CHANNELS | general                   | {`view` / `react` / `message`} |  ✅  | `@Admin`          |
+| TEXT CHANNELS | general                   | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
+| TEXT CHANNELS | homework-help             | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
 
 <br>
 
