@@ -32,20 +32,20 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 table:
 
-| Category      | Text Chat                 | Default Permissions            | View | View Exempt Roles | @Admin Role Permissions |
-|---------------|---------------------------|--------------------------------|------|-------------------|-------------------------|
-| INFORMATION   | welcome-and-rules         | `react only`                   |  ✅  |                   | `ALL`                   |
-| INFORMATION   | roles                     | `react only`                   |  ✅  |                   | `ALL`                   |
-| INFORMATION   | announcements             | `react only`                   |  ✅  |                   | `ALL`                   |
-| INFORMATION   | bot-commands              | `N/A`                          |  ❌  |                   | `ALL`                   |
+| Category      | Text Chat                 | Default Permissions            | View | View Exempt Roles           |
+|---------------|---------------------------|--------------------------------|------|-----------------------------|
+| INFORMATION   | welcome-and-rules         | `react only`                   |  ✅  | `@Admin`                    |
+| INFORMATION   | roles                     | `react only`                   |  ✅  | `@Admin`                    |
+| INFORMATION   | announcements             | `react only`                   |  ✅  | `@Admin`                    |
+| INFORMATION   | bot-commands              | `N/A`                          |  ❌  | `@Admin`                    |
 | |
 | |
-| OFFICE HOURS  | notifications             | `react only`                   |  ✅  |                   | `ALL`                   |
-| OFFICE HOURS  | upcoming-office-hours     | `react only`                   |  ✅  |                   | `ALL`                   |
-| OFFICE HOURS  | support                   | `react only`                   |  ❌  | `@HELP_NEEDED`    | `ALL`                   |
+| OFFICE HOURS  | notifications             | `react only`                   |  ✅  | `@Admin`                    |
+| OFFICE HOURS  | upcoming-office-hours     | `react only`                   |  ✅  | `@Admin`                    |
+| OFFICE HOURS  | support                   | `react only`                   |  ❌  | {`@HELP_NEEDED` / `@Admin`} |
 | |
 | |
-| TEXT CHANNELS | general                   | {`view` / `react` / `message`} |  ✅  |                   | `ALL`                   |
+| TEXT CHANNELS | general                   | {`view` / `react` / `message`} |  ✅  | `@Admin`          |
 
 <br>
 
