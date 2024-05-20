@@ -49,6 +49,7 @@ table:
 | TEXT CHANNELS | homework-help             | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
 | TEXT CHANNELS | notes-resources           | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
 | TEXT CHANNELS | code-spam                 | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
+| TEXT CHANNELS | off-topic                 | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
 
 <br>
 
