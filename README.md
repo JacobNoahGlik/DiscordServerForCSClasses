@@ -32,24 +32,24 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 table:
 
-| Category      | Text Chat                 | Default Permissions            | View | View Exempt Roles           |
-|---------------|---------------------------|--------------------------------|------|-----------------------------|
-| INFORMATION   | welcome-and-rules         | `react only`                   |  ✅  | `@Admin`                    |
-| INFORMATION   | roles                     | `react only`                   |  ✅  | `@Admin`                    |
-| INFORMATION   | announcements             | `react only`                   |  ✅  | `@Admin`                    |
-| INFORMATION   | bot-commands              | `N/A`                          |  ❌  | `@Admin`                    |
+| Category      | Text Chat                 | Default Permissions           | View | View Exempt Roles         |
+|---------------|---------------------------|-------------------------------|------|---------------------------|
+| INFORMATION   | welcome-and-rules         | `react only`                  |  ✅  | `@Admin`                  |
+| INFORMATION   | roles                     | `react only`                  |  ✅  | `@Admin`                  |
+| INFORMATION   | announcements             | `react only`                  |  ✅  | `@Admin`                  |
+| INFORMATION   | bot-commands              | `N/A`                         |  ❌  | `@Admin`                  |
 | |
 | |
-| OFFICE HOURS  | notifications             | `react only`                   |  ✅  | `@Admin`                    |
-| OFFICE HOURS  | upcoming-office-hours     | `react only`                   |  ✅  | `@Admin`                    |
-| OFFICE HOURS  | support                   | `react only`                   |  ❌  | {`@HELP_NEEDED` / `@Admin`} |
+| OFFICE HOURS  | notifications             | `react only`                  |  ✅  | `@Admin`                  |
+| OFFICE HOURS  | upcoming-office-hours     | `react only`                  |  ✅  | `@Admin`                  |
+| OFFICE HOURS  | support                   | `react only`                  |  ❌  | `@HELP_NEEDED` / `@Admin` |
 | |
 | |
-| TEXT CHANNELS | general                   | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
-| TEXT CHANNELS | homework-help             | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
-| TEXT CHANNELS | notes-resources           | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
-| TEXT CHANNELS | code-spam                 | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
-| TEXT CHANNELS | off-topic                 | {`view` / `react` / `message`} |  ✅  | `@Admin`                    |
+| TEXT CHANNELS | general                   | `view` / `react` / `message` |  ✅  | `@Admin`                  |
+| TEXT CHANNELS | homework-help             | `view` / `react` / `message` |  ✅  | `@Admin`                  |
+| TEXT CHANNELS | notes-resources           | `view` / `react` / `message` |  ✅  | `@Admin`                  |
+| TEXT CHANNELS | code-spam                 | `view` / `react` / `message` |  ✅  | `@Admin`                  |
+| TEXT CHANNELS | off-topic                 | `view` / `react` / `message` |  ✅  | `@Admin`                  |
 
 <br>
 
