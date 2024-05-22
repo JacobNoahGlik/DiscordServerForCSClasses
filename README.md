@@ -42,7 +42,7 @@ table:
 | |
 | OFFICE HOURS  | notifications             | `react only`                  |  ✅  | `@Admin`                  |
 | OFFICE HOURS  | upcoming-office-hours     | `react only`                  |  ✅  | `@Admin`                  |
-| OFFICE HOURS  | support                   |                               |  ❌  | `@HELP_NEEDED` / `@Admin` |
+| OFFICE HOURS  | support                   |                               |  ❌  | `@Admin` / `@HELP_NEEDED` |
 | |
 | |
 | TEXT CHANNELS | general                   | `view` / `react` / `message` |  ✅  | `@Admin`                  |
