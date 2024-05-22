@@ -37,12 +37,12 @@ table:
 | INFORMATION   | welcome-and-rules         | `react only`                  |  ✅  | `@Admin`                  |
 | INFORMATION   | roles                     | `react only`                  |  ✅  | `@Admin`                  |
 | INFORMATION   | announcements             | `react only`                  |  ✅  | `@Admin`                  |
-| INFORMATION   | bot-commands              | `N/A`                         |  ❌  | `@Admin`                  |
+| INFORMATION   | bot-commands              |                               |  ❌  | `@Admin`                  |
 | |
 | |
 | OFFICE HOURS  | notifications             | `react only`                  |  ✅  | `@Admin`                  |
 | OFFICE HOURS  | upcoming-office-hours     | `react only`                  |  ✅  | `@Admin`                  |
-| OFFICE HOURS  | support                   | `react only`                  |  ❌  | `@HELP_NEEDED` / `@Admin` |
+| OFFICE HOURS  | support                   |                               |  ❌  | `@HELP_NEEDED` / `@Admin` |
 | |
 | |
 | TEXT CHANNELS | general                   | `view` / `react` / `message` |  ✅  | `@Admin`                  |
@@ -50,7 +50,7 @@ table:
 | TEXT CHANNELS | notes-resources           | `view` / `react` / `message` |  ✅  | `@Admin`                  |
 | TEXT CHANNELS | code-spam                 | `view` / `react` / `message` |  ✅  | `@Admin`                  |
 | TEXT CHANNELS | off-topic                 | `view` / `react` / `message` |  ✅  | `@Admin`                  |
-| TEXT CHANNELS | admin-chatroom            | `N/A`                        |  ❌  | `@Admin`                  |
+| TEXT CHANNELS | admin-chatroom            |                              |  ❌  | `@Admin`                  |
 
 <br>
 
