@@ -1,5 +1,5 @@
 ```discord
-🎉 Welcome to the Engling Algorithms Discord Server! 🎉
+🎉 Welcome to the <PROFESSOR'S NAME HERE> Algorithms Discord Server! 🎉
 
 👋  Whether you're a seasoned coder or just dipping your toes into the world of algorithms, we're thrilled to have you here. 🫵 🥳 
 
