@@ -39,11 +39,9 @@ table:
 | INFORMATION   | announcements             | `react only`                  |  ✅  | `@Admin`                  |
 | INFORMATION   | bot-commands              | `not viewable`                |  ❌  | `@Admin`                  |
 | |
-| |
 | OFFICE HOURS  | notifications             | `react only`                  |  ✅  | `@Admin`                  |
 | OFFICE HOURS  | upcoming-office-hours     | `react only`                  |  ✅  | `@Admin`                  |
 | OFFICE HOURS  | support                   | `not viewable`                |  ❌  | `@Admin` / `@HELP_NEEDED` |
-| |
 | |
 | TEXT CHANNELS | general                   | `view` / `react` / `message` |  ✅  | `@Admin`                  |
 | TEXT CHANNELS | homework-help             | `view` / `react` / `message` |  ✅  | `@Admin`                  |
