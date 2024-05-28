@@ -1,6 +1,11 @@
 ![image](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/assets/70964953/ea40a789-d633-4faa-88ba-795521daa7b1)
 
-**In #bot-commands channel:**
+<details>
+  <summary>
+    Click to see text needed to create the reaction-role image above
+  </summary>
+  <p>
+#### **In #bot-commands channel:**
 ###### Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
 
 ```cmd
@@ -44,3 +49,6 @@
 "Your reaction roles work immediately. By default the message type is 'normal', see the docs for all available modes." - Carl-bot
 
 ```
+  </p>
+</details>
+
