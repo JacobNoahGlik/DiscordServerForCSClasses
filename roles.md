@@ -5,8 +5,12 @@
     Click to see text needed to create the reaction-role image above
   </summary>
   <p>
-#### **In #bot-commands channel:**
-###### Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
+**In #bot-commands channel:**
+  </p>
+  <p>
+Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
+  </p>
+  <p>
 
 ```cmd
 > ?reactionrole make
