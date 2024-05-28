@@ -1,8 +1,8 @@
 ![image](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/assets/70964953/ea40a789-d633-4faa-88ba-795521daa7b1)
 
+**In #bot-commands channel:**
+###### Note: ">" delineates your text and any text in quotes is the expected response from Carl-bot
 ```cmd
- // in #bot-commands chennel
-
 > ?reactionrole make
 
 "Hello. Which channel would you like the message to be in?" - Carl-bot
