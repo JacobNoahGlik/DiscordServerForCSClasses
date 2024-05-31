@@ -5,7 +5,7 @@
     Click to see the text needed to create the reaction-role image above
   </summary>
   <p>
-**In #bot-commands channel:**
+<b>In #bot-commands channel:</b>
   </p>
   <p>
 Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
