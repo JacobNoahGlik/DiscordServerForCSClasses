@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    Click to see text needed to create the reaction-role image above
+    Click to see the text needed to create the reaction-role image above
   </summary>
   <p>
 **In #bot-commands channel:**
@@ -61,5 +61,12 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
 
 ![image](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/assets/70964953/31b769a9-2836-4c87-a870-ef6c158dafb1)
 
-
+<details>
+  <summary>
+    Click to see the text needed to create the reaction-role image above
+  </summary>
+  <p>
+    text here
+  </p>
+</details>
 
