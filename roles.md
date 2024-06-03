@@ -71,10 +71,11 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
   <p>
 Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
   </p>
-  <p>
+<p>
+
 ```cmd
     code here
 ```
-  </p>
+</p>
 </details>
 
