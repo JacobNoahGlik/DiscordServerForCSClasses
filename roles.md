@@ -72,9 +72,9 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
 Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
   </p>
   <p>
-    ```
+```cmd
     code here
-    ```
+```
   </p>
 </details>
 
