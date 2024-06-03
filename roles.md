@@ -66,7 +66,15 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
     Click to see the text needed to create the reaction-role image above
   </summary>
   <p>
-    text here
+<b>In #bot-commands channel:</b>
+  </p>
+  <p>
+Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
+  </p>
+  <p>
+    ```
+    code here
+    ```
   </p>
 </details>
 
