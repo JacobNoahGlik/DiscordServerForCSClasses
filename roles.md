@@ -117,7 +117,8 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
 
 <br>
 
-![image](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/assets/70964953/31b769a9-2836-4c87-a870-ef6c158dafb1)
+![image](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/assets/70964953/eae72ebf-bf99-4837-a39f-a24b2819faad)
+
 
 <details>
   <summary>
