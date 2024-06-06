@@ -10,9 +10,10 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 * welcome-and-rules &nbsp;( students: `react only` )
   * sample `welcome-and-rules` post attached [found in welcome-and-rules.md](welcome-and-rules.md)
 * roles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( students: `react only` )
+  * sample `roles` posts attached [found in roles.md](roles.md)
 * announcements &nbsp; &nbsp; &nbsp; ( students: `react only` )
 * bot-commands &nbsp; &nbsp; &nbsp; &nbsp;( students: `not viewable` )
-  * sample `bot-commands` posts attached [found in welcome-and-rules.md](welcome-and-rules.md)
+  * sample `bot-commands` posts attached [found in roles.md](roles.md)
 
 
 ###### `OFFICE HOURS`
