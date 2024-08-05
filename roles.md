@@ -175,3 +175,59 @@ Note: ">" delineates your text. Any text in quotes is the expected response from
 ```
 </p>
 </details>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/05fca5e0-1459-4d9a-ad69-74909ff755bb)
+
+<details>
+  <summary>
+    Click to see the text needed to create the reaction-role image above
+  </summary>
+  <p>
+<b>In #bot-commands channel:</b>
+  </p>
+  <p>
+Note: ">" delineates your text. Any text in quotes is the expected response from Carl-bot.
+  </p>
+<p>
+
+```cmd
+> ?reactionrole make
+
+"Hello. Which channel would you like the message to be in?" - Carl-bot
+
+> #⁠roles
+
+"Alright, the channel is ⁠roles. What would you like the message to say? Use a | to separate the title from the description, like so"
+"    `This is a title | this is the description`"
+"You can also type {roles} to have it replaced with a list of each emoji and its associated role." - Carl-bot
+
+> Notifications and Help | 🔔 @🔔 NotifyMe-OfficeHours (CHANGE)  🔔  to be notified when office hours change ⏰  @⏰ NotifyMe-OfficeHours (2 H Before Event)  ⏰  to be notified 2 hours before every office hours event 🚨  @🚨 Need-Help 🚨  and the TA's will periodically check and may reach out to you.
+
+"Alright, I got a title and a description, would you like the message to have a color? Respond with the hex code or 'none' to skip."
+"Not sure what a hex code is? Check out https://htmlcolorcodes.com/color-picker/." - Carl-bot
+
+> #F06645
+
+"Alright, the message will look like this. Next up we will add roles"
+"The format for adding roles is emoji then the name of the role. When you're done, type 'done'"
+"**Example:**"
+"`:smile: league of legends`" - Carl-bot
+
+> 🔔  🔔 NotifyMe-OfficeHours  🔔
+> ⏰   ⏰ NotifyMe-OfficeHours (2 H Before Event)  ⏰
+> 🚨  🚨 Need-Help 🚨
+> done
+
+"3 Reaction roles Created"
+"Limit"
+"You have added 24/250 reaction roles so far."
+"Now what?"
+"Your reaction roles work immediately. By default the message type is 'normal', see the docs for all available modes." - Carl-bot
+
+```
+</p>
+</details>
+
+<br>
