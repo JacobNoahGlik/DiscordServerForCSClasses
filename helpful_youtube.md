@@ -1,0 +1,1 @@
+[This simple YouTube video](https://www.youtube.com/watch?v=EFg3u_E6eHU&ab_channel=SpanningTree) about Dijkstra's Algorithm helps explain the algorithm in a visual way and can be helpful for those struggling with the concept.
