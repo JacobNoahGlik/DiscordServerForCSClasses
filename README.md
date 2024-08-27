@@ -80,6 +80,7 @@ table:
 * [ChronicleBot](https://chroniclebot.com/) &ensp; (Used for keeping track of office hours and creating Discored events)
 * [ServerStats](https://serverstatsbot.com/) &ensp; &nbsp; &nbsp;(Used to keep track of the population in the server. i.e. number of members)
 * [YAGPDB.xyz](https://yagpdb.xyz/) &ensp; &nbsp; (Used to automatically assign the `@Student` role to those that join)
+* [TicketsBot](https://ticketsbot.net/) &ensp; &nbsp; (Used to create private tickets to ask TAs questions) [YouTube tutorial](https://www.youtube.com/watch?v=lz3VR4ptqhU)
 
 <br>
 
