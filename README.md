@@ -3,6 +3,12 @@ A description of how to create fun and helpful discord servers for CS classes ( 
 
 <br>
 
+Fork the [WPI CS Course discord server template](https://discord.new/yqVYn72DAEk5) to auto-create server structure and roles.
+
+Head over to the [role assignor script folder](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/tree/main/role_assignor) to set up basic `carl-bot` roles.
+
+<br>
+
 ## Recommended Text Chats - Overview
 ###### [More details can be found in the In-Depth Section](#In-Depth-Section-Text-Chat)
 
