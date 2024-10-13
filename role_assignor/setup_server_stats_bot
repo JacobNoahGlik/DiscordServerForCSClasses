@@ -1,1 +1,3 @@
-/setup
+/setup channel:voice channel (recommended) template:Default counters
+
+Enter `/setup` and the rest should auto populate
