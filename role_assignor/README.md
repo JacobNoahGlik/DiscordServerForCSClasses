@@ -8,6 +8,7 @@
 py main.py [FILENAME: "major_roles.txt", "programming_roles.txt", "year_roles.txt"]
 ```
 
+###### If running multiple files at once, do not use commas. Ex: `py main.py major_roles.txt programming_roles.txt year_roles.txt`
 ###### It's recommended to run the code in a `bot-spam` channel so users don't see this backend stuff
 
 ## PREREQUISITES
