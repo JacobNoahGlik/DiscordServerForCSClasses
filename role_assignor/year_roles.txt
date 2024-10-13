@@ -1,0 +1,11 @@
+?reactionrole make
+#roles
+Select your year by reacting to this message | {roles}
+#41b9e6
+:regional_indicator_m: Mass Academy - HS
+:one: Freshmen
+:two: Sophomore
+:three: Junior
+:four: Senior
+:regional_indicator_g: Grad Student
+done

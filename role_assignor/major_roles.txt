@@ -1,0 +1,14 @@
+?reactionrole make
+#roles
+Wanna show off that major? Pick the one that fits you best! | {roles}
+#14e4ad
+:nerd: Major: Comp-Sci
+:robot: Major: Robotics
+:muscle: Major: Data Science
+:closed_lock_with_key: Major: Cybersecurity
+:video_game: Major: IMGD
+:mechanic: Major: Mech-Eng
+:dna: Major: Bioengineering
+:electric_plug: Major: Electrical
+:confused: Major: Other
+done
