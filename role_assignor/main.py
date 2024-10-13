@@ -1,8 +1,12 @@
 import sys
 import os
 import time
-import pyautogui
-from typing import Optional
+try:
+    import pyautogui
+except:
+    print('pyautogui could not be imported, run `pip install pyautogui`')
+    exit()
+from typing import Optional, List
 
 def send_to_keyboard(message: str, sleep_time:float=0.1) -> None:
     pyautogui.write(message)
@@ -34,7 +38,7 @@ def main(filename:str):
             send_to_keyboard(line, sleep_time=1.2)
         elif line[0] == ':': # role
             send_to_keyboard(line, sleep_time=0.2)
-            if '@' in line: # if newline reqired to continue
+            if '@' in line: # if newline required to continue
                 send_to_keyboard('')
             time.sleep(0.25)
         elif line[0] == '#': # chanel name needs extra newline
@@ -47,16 +51,19 @@ def main(filename:str):
             time.sleep(0.25)
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         print("Usage: python keyboard_sender.py <filename>")
+        print("Usage: python keyboard_sender.py <filename_1> <filename_2> ... <filename_n>")
         sys.exit(1)
+    files: List[str] = sys.argv[1:]
+    print(f'executing {len(files)} files')
     print('3', end='\r')
     time.sleep(1)
     print('2', end='\r')
     time.sleep(1)
     print('1', end='\r')
     time.sleep(1)
-    print('running')
-
-    main(sys.argv[1])
+    for filename in files:
+        print(f'running {filename} ...')
+        main(filename)
 
