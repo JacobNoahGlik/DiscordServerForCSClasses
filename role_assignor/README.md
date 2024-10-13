@@ -1,4 +1,5 @@
 # Role Assignor
+###### [back to main](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/tree/main)
 
 ## TO RUN:
 
