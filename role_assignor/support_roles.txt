@@ -5,9 +5,9 @@ DO NOT RUN
 #done
 ?reactionrole make
 #roles
-Notifications and Help | ⏰ @⏰ Notify Me (2H B4 OH) ⏰ to be notified 2 hours before every office hours event
-🚨  @🚨 Need Help 🚨 Teaching Staff will periodically check and may reach out to you.
+Notifications and Help | ⏰ @⏰ Notify Me ⏰ to be notified 2 hours before every office hours event and if events change
+🚨 @🚨 Need Help 🚨 Teaching Staff will periodically check and may reach out to you.
 #ab0c2c
-:alarm_clock: ⏰ Notify Me (2H B4 OH) ⏰
+:alarm_clock: ⏰ Notify Me ⏰
 :rotating_light: 🚨 Need Help 🚨
 done
