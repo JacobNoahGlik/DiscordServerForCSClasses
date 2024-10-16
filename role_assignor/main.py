@@ -29,6 +29,9 @@ def main(filename:str):
     for i, line in enumerate(lines.split('\n')):
         if line in ['', ' ', '\t']:
             continue
+        if line == 'DO NOT RUN':
+            print('this file should not be run')
+            exit()
         if first: # first
             send_to_keyboard(line, sleep_time=0.2)
             time.sleep(0.4)
