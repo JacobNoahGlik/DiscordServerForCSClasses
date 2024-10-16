@@ -9,10 +9,10 @@ First, head over to the #roles chat and give `Carl-Bot` a little reaction to sna
 
 :shaking_face: Need a helping hand with your latest assignment or concept? 
 Don't sweat it! The @Teaching Staff is here for you! Pop into the #upcoming-office-hours chat for all the deets on when and where you can catch us. 
-Can't make it to office hours? Ask your question in #general or #homework-help chats, and we or your peers will respond!
+Can't make it to office hours? Ask your question in #general or #homework-help chats, and we, or your peers will respond!
 
 :envelope_with_arrow: Private Questions? 
-For private matters, such as questions about grades or missed classes, you can create a support ticket using the #support-ticket channel. This will open a private thread that only you and the teaching staff can view and respond to.
+For private matters, such as questions about grades or missed classes, you can create a support ticket using the #📩support-ticket📩 channel. This will open a private thread where only you and the @Teaching Staff  can view and respond.
 
 :handshake: Collaborative Learning:
 We get it—sometimes you just need to bounce ideas off a fellow student. That's what this server is all about! Collaboration is key, but remember, cheating is a big no-no. Avoid giving away complete solutions to your peers. We want you to learn and grow in your understanding. (**and your ability to google!**) :mag_right: 
@@ -21,7 +21,7 @@ We get it—sometimes you just need to bounce ideas off a fellow student. That's
 Mutual respect is paramount in our community. Treat each other with kindness, understanding, and empathy. We're all in this together, so let's make this space one where everyone feels welcome and valued.
 
 :rocket: Enjoy Your Stay:
-Feel free to introduce yourself in the #intros chat. 
+Feel free to introduce yourself in the #introduce-yourself chat. 
 Let's conquer algorithms together! :muscle::woman_technologist::man_technologist:
 
 
