@@ -43,7 +43,7 @@ def main(filename:str):
             send_to_keyboard(line, sleep_time=0.2)
             if '@' in line: # if newline required to continue
                 send_to_keyboard('')
-            time.sleep(0.25)
+            time.sleep(0.4)
         elif line[0] == '#': # chanel name needs extra newline
             send_to_keyboard(line)
             time.sleep(0.1)
