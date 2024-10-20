@@ -20,7 +20,7 @@ Head over to the [role assignor script folder](https://github.com/JacobNoahGlik/
 <br>
 
 ## Recommended Text Chats - Overview
-###### [More details can be found in the In-Depth Section](#In-Depth-Section-Text-Chat)
+###### [More details can be found in the In-Depth Section](#In-Depth-Section---Text-Chat)
 
 ###### `INFORMATION`
 * welcome-and-rules &nbsp;( students: `react only` )
