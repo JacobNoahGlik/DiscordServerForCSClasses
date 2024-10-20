@@ -2,6 +2,7 @@
 
 ## Step-By-Step Guide
 1. Add the `BetterInvites` Discord bot to your server
+    1. [Invite `BetterInvites` Bot](https://discord.com/oauth2/authorize?client_id=1076936873106231447&permissions=1101927548960&scope=bot%20applications.commands)
 2. Generate multiple invites - you will need one invite per group.
     1. Example: 
         1. Group 1: Students (one invite link)
@@ -16,7 +17,6 @@
 4. Varify that the roles are assigned correctly by running `/display`. Note the response is only visable to you.
 
 
-### [Invite `BetterInvites` Bot](https://discord.com/oauth2/authorize?client_id=1076936873106231447&permissions=1101927548960&scope=bot%20applications.commands)
 <br>
 
 <br>
