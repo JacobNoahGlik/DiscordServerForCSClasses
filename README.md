@@ -13,7 +13,7 @@ Head over to the [role assignor script folder](https://github.com/JacobNoahGlik/
 1. Clear distinction between students and teaching staff
     1. For custom links for individual groups (`Students` VS `TAs` VS `SAs` VS `Professors`), see the [custom invite auto-role guide](#LINK_MISSING)
 2. Reaction roles
-    1. For reaction role presets, see the (role assignor folder)[https://github.com/JacobNoahGlik/DiscordServerForCSClasses/tree/main/role_assignor]
+    1. For reaction role presets, see the [role assignor folder](https://github.com/JacobNoahGlik/DiscordServerForCSClasses/tree/main/role_assignor)
 3. Clear welcome message/rules
 4. Get teaching staff attention easily
 
