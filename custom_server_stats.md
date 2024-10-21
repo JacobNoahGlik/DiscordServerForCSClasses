@@ -5,6 +5,7 @@
 Running `/setup channel:voice channel (reccomended) template:Default counters` will result in a counter of All members (`Users` + `Bots`), Members (`Users`), and Bots (`Bots`)
 
 ![image](https://github.com/user-attachments/assets/7fe6a21c-6333-454f-8ebb-0cb8db3a691e)
+
 ![image](https://github.com/user-attachments/assets/1ade3201-11e5-44d3-8f70-fae576627c78)
 
 ## Edit The Counters
