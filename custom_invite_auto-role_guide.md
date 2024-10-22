@@ -1,5 +1,5 @@
 # Custom Invite Auto-Role Guide
-###### Note: sometimes, the bot fails to add roles if a large influx of people joins at one time. In the case of classes where many students join at once you may have to go back and verify that all members who are not TAs or SAs have the `@student` role
+###### Note: sometimes, the bot fails to add roles if many people join at once. In the case of classes where many students join at once, you may have to go back and verify that all members who are not TAs or SAs have the `@student` role
 
 ## Step-By-Step Guide
 1. Add the `BetterInvites` Discord bot to your server
