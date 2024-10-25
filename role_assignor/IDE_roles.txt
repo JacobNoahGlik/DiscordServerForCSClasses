@@ -1,0 +1,13 @@
+?reactionrole make
+#roles
+Best IDE? | {roles}
+#fc6203
+:triumph: VS-Code
+:nerd: IntelliJ
+:disguised_face: Eclipse
+:cowboy: NetBeans
+:face_with_monocle: Visual Studio
+:face_with_raised_eyebrow: CLion
+:face_with_peeking_eye: Notepad++
+:skull: Notepad + cmd 💀
+done
